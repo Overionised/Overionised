@@ -1,0 +1,4 @@
+- hi I'm overionised, I'm an it student.
+- I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
+- I!m also working on an os, it's mutch less impressive than it sounds.
+- Check it out if you want to, it's a meme os, so have fun with it.
