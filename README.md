@@ -10,4 +10,4 @@
 
 - Check it out if you want to, it's a meme os, so have fun with it.
 
-- haha I do not know where to drop the files, do just text me or something. I know right, so professional.
+- haha I do not know where to drop the files, so just text me or something. I know right, so professional.
