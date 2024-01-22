@@ -1,8 +1,8 @@
 - hi I'm overionised, I'm an it student.
 - I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
 - I made an OS IT'S DONE
-     > it's called Neco arc Linux and is exactly what it sounds like.
-     > honestly it's: 
+     - it's called Neco arc Linux and is exactly what it sounds like.
+     - honestly it's: 
         - based on Ubuntu
         - kinda bloated
         - really funny
