@@ -1,5 +1,6 @@
 - hi I'm overionised, I'm an IT student.
 - I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
+- I can code in c++ and python :( MORE WILL COME
 - I like Linux with a wm, only the stable kind of Linux.
 - I also indulge in a little bit of bash scripting
      - currently practising pentests with Kali
