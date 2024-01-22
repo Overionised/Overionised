@@ -7,7 +7,7 @@
      - currently practising pentests with Kali
      - if I make any cool scripts there will probably be a repo
 - I made an OS IT'S DONE
-     - it's called Neco arc Linux and is exactly what it sounds like.
+     - it's called Neco arc Linux and it's exactly what it sounds like.
      - honestly it's: 
         - based on Ubuntu
         - kinda bloated
