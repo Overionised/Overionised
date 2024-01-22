@@ -17,4 +17,4 @@
 - Check it out if you want to, it's a meme os, so have fun with it.
 
 - haha I do not know where to drop the files, so just text me or something. I know right, so professional.
-        - you could also suggest a location that I can drop the iso in, that would be cool
+- you could also suggest a location that I can drop the iso in, that would be cool
