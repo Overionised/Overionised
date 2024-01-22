@@ -1,5 +1,5 @@
 - hi I'm overionised, I'm an IT student.
-- I like chess, coffee, anime, tea, webtoons, drawing, videogames and so on...
+- I like chess, coffee, anime, tea, webtoons, ginger,  drawing, videogames and so on...
 - I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
 - I can code in: c++ and python :( MORE WILL COME
 - I can also use: Blender, Krita, Gimp, CorelPainter,  Inkscape, CorerelDraw, kdenlive, Microsoft suite(bleh), libre office suite (👍).
