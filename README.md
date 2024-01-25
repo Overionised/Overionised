@@ -22,6 +22,8 @@
 - haha I do not know where to drop the files, so just text me or something. I know right, so professional.
 - you could also suggest a location that I can drop the iso in, that would be cool
 
+------------
+
 ## yt content that I like :
 
 genre | why? | Links
@@ -29,6 +31,8 @@ genre | why? | Links
 coffee | This channel takes a different approach to making coffee and I like that | https://youtube.com/@TALESCOFFEE?si=mQwRk4-2mlA2sw7j
 coffee | golden standard | https://youtube.com/@jameshoffmann?si=awvo-plIUT9t_bhN
 tired | continue list | later need sleep
+
+-------------
 
 # stats :
 
