@@ -36,4 +36,4 @@ tired | continue list | later need sleep
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Overionised&theme=gruvbox&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Overionised&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=Donut_Chart)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Overionised&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut_chart)
