@@ -22,7 +22,7 @@
 - haha I do not know where to drop the files, so just text me or something. I know right, so professional.
 - you could also suggest a location that I can drop the iso in, that would be cool
 
-# yt content that I like :
+## yt content that I like :
 
 genre | why? | Links
 ----------------|-------------|-------
