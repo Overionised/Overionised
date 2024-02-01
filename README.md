@@ -24,16 +24,6 @@
 
 ------------
 
-## yt content that I like :
-
-genre | why? | Links
-----------------|-------------|-------
-coffee | This channel takes a different approach to making coffee and I like that | https://youtube.com/@TALESCOFFEE?si=mQwRk4-2mlA2sw7j
-coffee | golden standard | https://youtube.com/@jameshoffmann?si=awvo-plIUT9t_bhN
-tired | continue list | later need sleep
-
--------------
-
 # stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=Overionised&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
