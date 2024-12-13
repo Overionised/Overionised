@@ -3,8 +3,7 @@
 - hi I'm overionised, I'm an IT student.
 - I like chess, coffee, anime, tea, webtoons, ginger,  drawing, videogames and so on...
 - I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
-- I can code in: c++ and python :( MORE WILL COME
-- I can also use: Blender, Krita, Gimp, CorelPainter,  Inkscape, CorerelDraw, kdenlive, Microsoft suite, libre office suite (👍), and other miscellaneous programs
+- I can code in: c++, python and java 
 - I like Linux with a wm(sway), only the stable kind of Linux.
 
 ------------
