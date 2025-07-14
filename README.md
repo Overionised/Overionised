@@ -4,7 +4,7 @@
 - I mostly paint these days
 - I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
 - I can code in: c++
-- I like Linux with a wm(sway), only the stable kind of Linux.
+- I like Linux with a wm(sway), only the stable kind of Linux. currently running Debian
 
 ------------
 
