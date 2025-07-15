@@ -3,7 +3,7 @@
 - hi I do exist
 - I mostly paint these days
 - I use my repos for bigger projects, and personal stuff. It is not neceserally limited to school.
-- I can code in: c++
+- I can code in: c++, c, trying to learn bash to a mediocre extent
 - I like Linux with a wm(sway), only the stable kind of Linux. currently running Debian
 
 ------------
